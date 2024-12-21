@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_attribute">
+    <sys_security_attribute action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition>LoggedIn=true^ORAllowUnauthRolelessAcl=true</condition>
+        <description>Auto Created Attribute - ACL_4842047c97e956103fdb793de053af1c</description>
+        <is_dynamic>false</is_dynamic>
+        <is_localized>true</is_localized>
+        <is_system>false</is_system>
+        <label>ACL_4842047c97e956103fdb793de053af1c</label>
+        <lookup_table/>
+        <lookup_table_column/>
+        <name>x_1209398_airline__ACL_4842047c97e956103fdb793de053af1c</name>
+        <script/>
+        <sys_class_name>sys_security_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 01:50:15</sys_created_on>
+        <sys_id>c6f826f297f5d6103fdb793de053af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1209398_airline__ACL_4842047c97e956103fdb793de053af1c</sys_name>
+        <sys_package display_value="Airline Feedback" source="x_1209398_airline">0e2fbfe097a956103fdb793de053af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline Feedback">0e2fbfe097a956103fdb793de053af08</sys_scope>
+        <sys_update_name>sys_security_attribute_c6f826f297f5d6103fdb793de053af24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 01:50:15</sys_updated_on>
+        <type>compound</type>
+    </sys_security_attribute>
+</record_update>

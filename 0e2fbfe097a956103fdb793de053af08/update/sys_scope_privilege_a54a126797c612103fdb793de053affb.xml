@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>create</operation>
+        <source_scope display_value="Airline Feedback">0e2fbfe097a956103fdb793de053af08</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-29 18:57:11</sys_created_on>
+        <sys_id>a54a126797c612103fdb793de053affb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rm_enhancement</sys_name>
+        <sys_package display_value="Airline Feedback" source="x_1209398_airline">0e2fbfe097a956103fdb793de053af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline Feedback">0e2fbfe097a956103fdb793de053af08</sys_scope>
+        <sys_update_name>sys_scope_privilege_a54a126797c612103fdb793de053affb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-29 18:57:11</sys_updated_on>
+        <target_name>rm_enhancement</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

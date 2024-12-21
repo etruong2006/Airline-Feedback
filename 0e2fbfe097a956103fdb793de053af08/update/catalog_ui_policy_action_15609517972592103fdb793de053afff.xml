@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Summit Airline Feedback">e760895b97ed52103fdb793de053af0b</catalog_item>
+        <catalog_variable>IO:b58285db97ed52103fdb793de053afbf</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 22:24:39</sys_created_on>
+        <sys_id>15609517972592103fdb793de053afff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Airline Feedback" source="x_1209398_airline">0e2fbfe097a956103fdb793de053af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline Feedback">0e2fbfe097a956103fdb793de053af08</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_15609517972592103fdb793de053afff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 22:24:39</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Mandatory Field">6aaf8117972592103fdb793de053af48</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>description</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=15609517972592103fdb793de053afff"/>
+</record_update>

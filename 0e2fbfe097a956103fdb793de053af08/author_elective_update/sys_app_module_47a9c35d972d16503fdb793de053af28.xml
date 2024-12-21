@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Airline Feedback">2cb2835197e916503fdb793de053afa7</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Airlines</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1209398_airline_flights</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-29 02:06:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>47a9c35d972d16503fdb793de053af28</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Flights</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Airline Feedback" source="x_1209398_airline">0e2fbfe097a956103fdb793de053af08</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline Feedback">0e2fbfe097a956103fdb793de053af08</sys_scope>
+        <sys_update_name>sys_app_module_47a9c35d972d16503fdb793de053af28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-29 02:09:43</sys_updated_on>
+        <timeline_page/>
+        <title>Flights</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Airline Feedback">0e2fbfe097a956103fdb793de053af08</application>
+        <file_path/>
+        <instance_id>35ad9339dbbeb95002d91729139619d0</instance_id>
+        <instance_name>dev229190</instance_name>
+        <name>sys_app_module_47a9c35d972d16503fdb793de053af28</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Airline Feedback">2cb2835197e916503fdb793de053afa7</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Airlines</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1209398_airline_flights</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-29 02:06:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>47a9c35d972d16503fdb793de053af28</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Flights</sys_name><sys_overrides/><sys_package display_value="Airline Feedback" source="x_1209398_airline">0e2fbfe097a956103fdb793de053af08</sys_package><sys_policy/><sys_scope display_value="Airline Feedback">0e2fbfe097a956103fdb793de053af08</sys_scope><sys_update_name>sys_app_module_47a9c35d972d16503fdb793de053af28</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-29 02:09:43</sys_updated_on><timeline_page/><title>Flights</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1055659310</payload_hash>
+        <record_name>Flights</record_name>
+        <reverted_from/>
+        <source>922fbfe097a956103fdb793de053af0d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-29 02:09:43</sys_created_on>
+        <sys_id>f56a4751976d16503fdb793de053af1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192d60941460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-29 02:09:43</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bd6a4751146d1650f81672fcbf09c71e</update_guid>
+        <update_guid_history>bd6a4751146d1650f81672fcbf09c71e:1055659310,cfa9c35df42d16503dee590c75201c29:1623236916</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Flights">57b1b38b972112103fdb793de053af12</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 15:30:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0cb6753bcad4493480a6c6b238efc010</sys_id>
+        <sys_metadata>47a9c35d972d16503fdb793de053af28</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Flights</sys_name>
+        <sys_package display_value="Airline Feedback" source="x_1209398_airline">0e2fbfe097a956103fdb793de053af08</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Airline Feedback">0e2fbfe097a956103fdb793de053af08</sys_scope>
+        <sys_scope_delete display_value="">21e568de2b454db0ae572e854ec66f10</sys_scope_delete>
+        <sys_update_name>sys_app_module_47a9c35d972d16503fdb793de053af28</sys_update_name>
+        <sys_update_version display_value="sys_app_module_47a9c35d972d16503fdb793de053af28">f56a4751976d16503fdb793de053af1f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 15:30:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

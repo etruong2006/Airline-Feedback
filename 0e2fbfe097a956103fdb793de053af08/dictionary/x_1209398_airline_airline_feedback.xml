@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="84d2087c97e956103fdb793de053af94" extends="task" label="Airline Feedback" max_length="40" name="x_1209398_airline_airline_feedback" type="collection">
+        <element label="Enhancement" max_length="32" name="enhancement" reference="rm_enhancement" type="reference"/>
+        <element display="true" label="Flight" max_length="32" name="flight" reference="x_1209398_airline_flights" type="reference"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Maintenance" sequence="4" value="Maintenance"/>
+                <element inactive_on_update="false" label="Punctuality" sequence="1" value="Punctuality"/>
+                <element inactive_on_update="false" label="Cabin Crew" sequence="2" value="Cabin Crew"/>
+                <element inactive_on_update="false" label="Food Services" sequence="0" value="Food Services"/>
+                <element inactive_on_update="false" label="Pilot" sequence="3" value="Pilot"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0f714cb497e956103fdb793de053afc5" label="Flights" max_length="40" name="x_1209398_airline_flights" type="collection">
+        <element display="true" label="Flight Number" max_length="40" name="flight_number" type="string"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element choice="1" label="Service" max_length="40" name="service" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Domestic" sequence="0" value="Domestic"/>
+                <element inactive_on_update="false" label="International" sequence="0" value="International"/>
+            </choice>
+        </element>
+        <element choice="1" label="Airline" max_length="40" name="airline" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="American Airlines" sequence="0" value="American Airlines"/>
+                <element inactive_on_update="false" label="Air India" sequence="0" value="Air India"/>
+                <element inactive_on_update="false" label="British Airways" sequence="0" value="British Airways"/>
+            </choice>
+        </element>
+    </element>
+</database>
